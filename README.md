@@ -8,7 +8,7 @@
 <!-- - 💬 Ask me about ... -->
 ##### My Skills
 - Language Known :
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="5px" height="5px"/> | <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="5px" height="5px"/> | <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png width="5px" height="5px""/> | <img src="https://img.icons8.com/color/48/000000/python.png width="5px" height="5px""/>
+<img src="https://img.icons8.com/color/15/000000/c-programming.png"/> | <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="5px" height="5px"/> | <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png width="5px" height="5px""/> | <img src="https://img.icons8.com/color/48/000000/python.png width="5px" height="5px""/>
 - Framework : <img src="https://img.icons8.com/color/48/000000/bootstrap.pn width="5px" height="5px"g"/>
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
