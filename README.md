@@ -16,14 +16,12 @@
 
 ## __My skillset__
 
-# > __Full stack Web developement__ <br>
-# > __Competitive Programming__ <br>
+> __Full stack Web developement__ <br>
+> __Competitive Programming__ <br>
 
 
-### Language Known : 
-`HTML` `CSS` `Javascript` `C` __`C++`__ `Java` `Python`
-### Framework : 
-`Bootstrap` `NodeJS`
+### Language Known : `HTML` `CSS` `Javascript` `C` `C++` `Java` `Python`
+### Framework : `Bootstrap` `NodeJS`
 
 <hr>
 
