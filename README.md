@@ -28,7 +28,7 @@
 ### __Learning Status__
 
 > _Currently learning JS & NodeJS_ <br>
-<!--> _Competitive programming_ <br> -->
+<!-- Competitive programming <br> -->
 > _Building a project Task schedular_ <br>
 > _Enrolled in a course of DBMS_ <br>
 
