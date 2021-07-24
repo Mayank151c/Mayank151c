@@ -16,15 +16,15 @@
 
 ## __My skillset__
 
-> __Full stack Web developement.__ <br>
-<br>
+> __Full stack Web developement__ <br>
+
 > __Competitive Programming__ <br>
 
 
 ### Language Known : 
-`C <img src="https://img.icons8.com/color/32/000000/c-programming.png"/>` `C++<img src="https://img.icons8.com/color/32/000000/c-plus-plus-logo.png"/>` `Java<img src="https://img.icons8.com/color/32/000000/java-coffee-cup-logo.png"/>` `Python<img src="https://img.icons8.com/color/32/000000/python.png"/>`
+`C` <img src="https://img.icons8.com/color/32/000000/c-programming.png"/> `C++`<img src="https://img.icons8.com/color/32/000000/c-plus-plus-logo.png"/> `Java`<img src="https://img.icons8.com/color/32/000000/java-coffee-cup-logo.png"/> `Python`<img src="https://img.icons8.com/color/32/000000/python.png"/>
 ### Framework : 
-`Bootstrap<img src="https://img.icons8.com/color/32/000000/bootstrap.png"/>`
+`Bootstrap` <img src="https://img.icons8.com/color/32/000000/bootstrap.png"/>
 
 <hr>
 
