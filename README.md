@@ -10,7 +10,7 @@
 
 
 ### Hi there,
-# 👋 My name is __Mayank Choudhary__ ...
+# <p align=center>👋 My name is __Mayank Choudhary__ ...</p>
 
 <hr>
 
@@ -28,7 +28,7 @@
 ### __Learning Status__
 
 > _Currently learning JS & NodeJS_ <br>
-> _Competitive programming_ <br>
+<!--> _Competitive programming_ <br> -->
 > _Building a project Task schedular_ <br>
 > _Enrolled in a course of DBMS_ <br>
 
