@@ -16,9 +16,8 @@
 
 ## __My skillset__
 
-> __Full stack Web developement__ <br>
-
-> __Competitive Programming__ <br>
+# > __Full stack Web developement__ <br>
+# > __Competitive Programming__ <br>
 
 
 ### Language Known : 
