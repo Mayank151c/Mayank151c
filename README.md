@@ -22,7 +22,7 @@
 
 
 ### Language Known : 
-C ![]("https://img.icons8.com/color/16/000000/c-programming.png") `C++`<img src="https://img.icons8.com/color/32/000000/c-plus-plus-logo.png"/> `Java`<img src="https://img.icons8.com/color/32/000000/java-coffee-cup-logo.png"/> `Python`<img src="https://img.icons8.com/color/32/000000/python.png"/>
+C ![]("https://img.icons8.com/color/16/000000/c-programming.png") `C++`<img src="https://img.icons8.com/color/16/000000/c-plus-plus-logo.png"/> `Java`<img src="https://img.icons8.com/color/16/000000/java-coffee-cup-logo.png"/> `Python`<img src="https://img.icons8.com/color/16/000000/python.png"/>
 ### Framework : 
 `Bootstrap` <img src="https://img.icons8.com/color/32/000000/bootstrap.png"/>
 
