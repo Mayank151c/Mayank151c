@@ -38,4 +38,7 @@
 > Critical thinker :ok_man: <br>
 > ⚡ Fun fact: I am a night Owl😉 trying to be an early bird... <br>
 
-[![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank151c)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank151c&show_icons=true&theme=radical&text_color=#48FB00&title_color#DE9967)](https://github.com/anuraghazra/github-readme-stats)
+
+
