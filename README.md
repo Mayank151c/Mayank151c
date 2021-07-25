@@ -38,9 +38,9 @@
 > Critical thinker :ok_man: <br>
 > ⚡ Fun fact: I am a night Owl😉 trying to be an early bird... <br>
 
-
-<p align=center> [![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank151c&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank151c&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</p>
+<img align=center src="https://github-readme-stats.vercel.app/api?username=mayank151c&show_icons=true&theme=dark)"/>
+ ![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank151c&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank151c&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
