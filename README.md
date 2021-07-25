@@ -9,10 +9,8 @@
 <!-- - 😄 Pronouns: ... -->
 
 
-### Hi there,
+### [Hi there,
 # <p align=center>👋 My name is __Mayank Choudhary__ ...</p>
-
-<hr>
 
 ## __My skillset__
 
@@ -39,3 +37,5 @@
 > Chess lover :chess_pawn: <br>
 > Critical thinker :ok_man: <br>
 > ⚡ Fun fact: I am a night Owl😉 trying to be an early bird... <br>
+
+[![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank151c)](https://github.com/anuraghazra/github-readme-stats)
