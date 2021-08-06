@@ -9,7 +9,7 @@
 <!-- - 😄 Pronouns: ... -->
 
 
-### [Hi there,
+### Hi there,
 # <p align=center>👋 My name is __Mayank Choudhary__ ...</p>
 
 ## __My skillset__
