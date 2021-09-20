@@ -19,7 +19,8 @@
 
 
 ### Language Known : `HTML` `CSS` `Javascript` `C` `C++` `Java` `Python`
-### Framework : `Bootstrap` `NodeJS`
+### Framework : `Bootstrap` `JQuery`
+### Environment : `NodeJS`
 
 <hr>
 
@@ -27,8 +28,8 @@
 
 > _Currently learning JS & NodeJS_ <br>
 <!-- Competitive programming <br> -->
-> _Building a project Task schedular_ <br>
-> _Enrolled in a course of DBMS_ <br>
+<!-- > _Building a project Task schedular_ <br> -->
+<!-- > _Enrolled in a course of DBMS_ <br> -->
 
 <hr>
 
