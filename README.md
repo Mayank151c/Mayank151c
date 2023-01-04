@@ -41,7 +41,11 @@
 > Programmer :technologist: <br>
 > Chess lover :chess_pawn: <br>
 > Critical thinker :ok_man: <br>
-> ⚡ Fun fact: I am a night Owl😉 trying to be an early bird... <br>
+
+### 2023 Goal
+> Typing speedup to 60 + <br>
+> Streak of Programming
+> Early Bird 😜
 
 []()<br>
 
